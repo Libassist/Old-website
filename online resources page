@@ -1,1 +1,717 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+
+
+<html>
+
+<head>
+
+<link href="../brownell.css" rel="stylesheet" type="text/css">
+
+	<title>Using the Web</title>
+	
+	<!-- THIS IS WHERE THE QUOTES GO -->
+	
+	<script src="../javascriptquotes.js"></script>	
+	<!-- END OF QUOTES -->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-29444772-1', 'auto');
+  ga('send', 'pageview');
+
+</script>   
+   
+
+
+</head>
+
+
+
+<body>
+
+<table align="center" width="640" cellspacing="0" cellpadding="0">
+    <tbody>
+      
+        <td colspan="5" rowspan="1" valign="top">
+		<table align="center" width="700" border="0">
+<table align="center" width="640" cellspacing="0" cellpadding="0">
+    <tbody>
+      
+        <td colspan="5" rowspan="1" valign="top">
+		<table align="center" width="700" border="0">
+<td align="left"><a href="http://www.brownelllibrary.org"><img src="../BrownellLogo2012.gif" width="200" height="150" border="0" alt="Brownell Library, Essex Junction, VT"></a></td> 
+<td align="right"><b>Quick Links</b><br>
+<a href="http://brownell.kohavt.org/">Library Catalog</a><br>
+<a href="../online/databases.html">Databases</a><br>
+<a href="../online/web.html">Using the Web</a>
+<br>
+<a href="../../news/index.html">Calendar</a><br>
+<a href="../subscribe.html">Subscribe</a><br></td>
+</table>
+
+<table align="center" width="100%" cellspadding="15">
+
+
+
+<td colspan="2"><div id="middle"><SCRIPT language=JavaScript>
+
+	// Random texts displayed here
+
+	document.write(ideas[rand(ideas.length)])	
+
+</SCRIPT>   </div></td></tr>
+
+
+</td>
+
+<td valign="top"  class="left" width="140">
+
+
+<br>
+
+<!-- THIS IS THE PLACE FOR THE ROTATING IMAGES -->
+<script src="../javascriptpictures.js"></script>
+<!-- ROTATING IMAGES END HERE-->
+
+<!--  BEGIN SIDE NAVIGATION-->
+
+<br>
+<b>
+<b><a href="../index.html">Home</a></b><br>
+<b><a href="../using/index.html">Using the Library</a></b><br>
+<b><a href="../online/index.html">Online Resources</a></b><br>
+<b><a href="../adult/index.html">Adult Services</a></b><br>
+<b><a href="../youth/index.html">Youth Services</a></b><br>
+<b><a href="../about/index.html">About Us</a></b><br>
+</b>
+<!--  END SIDE NAVIGATION-->
+
+</td>
+
+
+
+
+<td class="main" width="500" valign="top">
+
+<img src="../headerimages/onlineresources.gif" width="500" height="50" border="0" alt="Online Resources">
+<br>
+
+<!--  THIS IS THE PART OF THE PAGE TO EDIT-->
+
+<b><br>
+Using the Web</b><br><br>
+
+<table cellspacing="10"><tr><td>
+
+   <A href="#Search">Search Engines</A> <br>
+    <A href="#Essex">Essex Junction &amp; Town</A> <br>
+	<A href="#Vermont">Vermont Sites</A> <br>
+ <A href="#TaxForm">Tax Forms</A> <br>
+   <A href="#GeneralReference">General Reference</A> <br>
+  <A href="#Antiques">Antiques and Collecting</A> <br>
+      <A href="#Business">Business Info</A> <br>
+	  <a href="#Catalogs">Catalogs at Other Area Libraries</a><br>
+<a href="#colleges">College Information</a><br>
+    <A href="#Consumer_Info">Consumer Information</A> <br>
+   <A href="#Genealogy">Genealogy</A> 
+</td>
+   
+   <td>
+
+    <A href="#Government_info">Government Information</A> <br>
+   <A href="#Job">Job Hunting</A> <br>
+    <A href="#Law">Law Information</A> <br>
+   <A href="#Library">Books &amp; Library Resources</A><br> 
+   <A href="#Medical">Medical Help</A><br> 
+    <A href="#Media">Media</A> <br>
+    <A href="#News">News</A> <br>
+      <A href="#Retirement">Retirement</A><br> 
+      <a href="#Schools">Schools - Local (CCSU)</a><br>
+	<A href="#Sports">Sports</A><br> 
+    <A href="#Telephone">Telephone&amp;Zip Directories</A> <br>
+   <A href="#Travel">Travel</A> <br>
+</td></tr></table>
+	  
+	<b>&nbsp;</b><br>
+&nbsp;<strong> </strong>
+  
+<A name=Search></A><b>
+<br>
+Search Engines, Directories, and Tutorials<br>
+<br>
+&nbsp; ** <a href="http://vermontstate.universalclass.com/barcode-login.htm?enter+code">Universal Class</a> </b>Online classes accessible to all Vermonters with library cards 
+**<br>
+
+<ul>
+
+
+<li><A href="http://www.askjeeves.com/">Ask Jeeves</A>  <br>
+<li><A href="http://www.sc.edu/beaufort/library/pages/bones/bones.shtml">
+Barebones Internet Tutorial</A> <br>
+<li><A href="http://www.dogpile.com/index.gsp"> Dogpile</A><br>
+<li><A href="https://duckduckgo.com/"> DuckDuckGo </A><br>
+<li><A href="http://www.excite.com/">ExciteHome</A>  <br>
+<li><A href="http://www.google.com/">Google</A><br>
+<li><A href="http://www.hotbot.com/">HotBot</A> <br>
+<li><A href="http://www.webcrawler.com/">WebCrawlerSearching</A> <br>
+<li><A href="http://lycos.cs.cmu.edu/">Lycos</A> <br>
+<li><A href="http://www.yahoo.com/">Yahoo!</A><br></ul>
+
+<BR><A name=Essex></A><b>Essex Junction 
+&amp; Essex Town Sites</b> 
+<UL>
+  <LI><A href="http://www.ccsuvt.org/ehs/library/">Essex 
+  High School Library</A> 
+  <LI><A href="http://www.essex.org/">Essex Home Page</A> 
+    <LI><A href="http://www.essexjunction.org/departments/wastewater/">Essex Junction Waste 
+  Water Treatment Facility</A> 
+  <LI><A href="http://www.essexjunction.org/">VILLAGE OF ESSEX JUNCTION, VT, 
+  USA</A> </LI></UL>
+
+<P><A name=Vermont></A><b>Vermont 
+Sites</b> (Some include all of&nbsp; New England)</P>
+
+  
+    <ul><li><A href="http://dol.state.vt.us/">Vermont Department of Libraries</A> 
+     <li><A href="http://vtslweb2.sirsi.net/html/welcome.html">Vermont Automated Library 
+      System</A> 
+   		<li><A href="http://library.uvm.edu/vtnp/">Vermont Newspaper 
+      Project</A>
+		<li><a href="http://healthconnect.vermont.gov/">Vermont Health Connect</a><li><A href="http://www.vermont.gov/">State of Vermont Homepage </A>&nbsp; 
+    	<li><A href="http://www.referweb.net/vermont211/">Vermont 2-1-1- </A> United Way 
+     database to government 
+      programs, community-based organizations, support groups and other local 
+      resources. 
+   		<li><A href="https://vermonthistory.org/">Vermont Historical Society Home 
+      Page</A>
+		<li><A href="http://www.uvm.edu/perkins/landscape">Landscape 
+      Change program</A> - Visit this web site and upload images of Vermont as 
+      it was in the past
+ 		<li><A href="http://www.uvm.edu/crs/">Vermont Center for Rural Studies</A>
+		<li><a href="http://bfprhdindex.uvm.edu/">Burlington Free Press &amp; Rutland Herald Index</a>
+		<li>
+		<A href="http://www.fletcherallen.org/community_resources/resource_center/">Fletcher 
+      Allen Community Health Resource Center</A>
+		<li><A href="http://www.vnrc.org/">Vermont Natural Resources Council</A>
+		<li><a href="http://newenglandtowns.org/vermont/">New 
+		England Towns.org - Vermont</a>
+		<LI><A href="http://www.uvm.edu/medicine/?Page=community_medical_school_archives.html">University of Vermont Community Medical School Archives</A>
+</ul>
+  
+<P><A name=TaxForm></A><b>Tax Forms</b>
+
+<ul><li><A href="http://www.irs.gov/formspubs/index.html">Federal tax 
+forms</A> 
+ <li><A href="http://tax.vermont.gov/">State Tax 
+Forms</A> </ul>
+
+
+
+<P><A name=GeneralReference></A><b>General 
+Reference </b></P>
+<P>&nbsp;</P>
+<UL>
+<li><a href="http://www.academicinfo.net/"> AcademicInfo</a> Subject Guides and 
+Educational Resources</li>
+  <LI><A href="http://www.accuweather.com/">AccuWeather</A> 
+  <LI><A href="http://www.adherents.com/">Adherents.com</A> - most 
+  comprehensive source for statistics on religious adherents.&nbsp; Search by 
+  religion or location etc. 
+  <LI><A href="http://memory.loc.gov/">American Memory Project </A>- 
+  Historical Documents and images 
+  <LI><A href="http://www.asiasource.org/">AsiaSource</A> 
+  <LI><A href="http://www.biography.com/">Biography.com</A> 
+  <LI><A href="http://www.britannica.com/">Britannica .com</A> 
+  
+  <LI> <A href="http://lnp.fdncenter.org/finder.html">Foundation 
+  Finder</A> 
+  <LI> <A href="http://www.historychannel.com/">The History Channel</A> 
+  <BR>
+
+  <LI><A href="http://www.howstuffworks.com/">How stuff 
+  works</A> 
+  <li><a href="http://www.nleindex.com/">Index to How To Do It Information</a></li>
+  <li> <A href="http://www.infoplease.com/">Information Please</A> 
+  <li> <A href="http://www.ipl.org/">Internet Public Library </A> - Pathfinders at this site are useful when searching a subject. 
+
+  <li> <A href="http://khanacademy.org/">Khan Academy</a> - videos covering everything from basic arithmetic and algebra to differential equations, physics, chemistry, biology and finance.</li> 
+
+  <li> <A href="http://lii.org/">Librarian's Index to the 
+  Internet(Sunsite)</A> 
+ 
+  <li><A href="http://www.nobel.se/">Nobel e-museum </A>- &nbsp;lists 
+  prize winners
+
+  <li><A href="http://www.onelook.com/">OneLook</A> - search many on-line 
+  dictionaries at once 
+  <li><A href="http://www.popsci.com/archives">Popular Science</A> - 137 years of Popular Science full text
+<LI<A href="http://www.biography.com/">
+<li><A href="http://www.itools.com/">Research-It!</A> - now called 
+<A 
+  href="http://www.itools.com/">iTools</A> - Includes tools in areas of 
+  language, finance and maps as well as basics. 
+  <li><A href="http://www.satirewire.com/">SatireWire</A> &nbsp; 
+  <LI><A href="http://www.searchsystems.net/">&nbsp;Search Systems Public 
+  Records Locator</A> &nbsp;"Largest free public records database collection." 
+  Search by keyword or browse by state, Canadian provinces, or country. You can 
+  track things like farm subsidy recipients, child support payments, corporate 
+  records, automobile lemon records, campaign contributions, physician 
+  discipline records,etc.
+<li><A href="http://physicsweb.org/TIPTOP">TIPTOP: the Internet Pilot to 
+  Physics</A> </LI></UL>
+
+<A name=Antiques></A><p><b>Antiques and Collecting</b></p>
+<UL>
+  <LI><A href="http://www.pbs.org/wgbh/pages/roadshow/">Antiques Road Show</A> 
+ 
+  <LI><A href="http://www.curioscape.com/">Curioscape.com</A> 
+  <LI><A href="http://www.icollector.com/">Icollector. com</A> 
+  <LI><A href="http://www.kovel.com/">Kovel's Antiques and Collecting Online 
+  </A></UL>
+
+<A name=Business></A><p><b>Business Information</b></p>
+<UL>
+  <LI><A href="http://bigcharts.marketwatch.com/historical/">Bigchart</A> - 
+  Historical stock quotes
+  <LI><A href="http://business.usa.gov/">BusinessUSA</A> <BR>
+  <LI><A href="http://www.companiesonline.com/">Companies Online</A> 
+  <LI><A href="http://www.westegg.com/inflation/">Inflation Calculator</A> - How 
+  much would $100 in 1899 be worth now, etc. 
+  <LI><A href="http://www.forbes.com/">Forbes</A>
+  <LI><A href="http://www.hoovers.com/">Hoover's Online</A> 
+  <LI><A href="http://www.uwex.edu/ces/cced/publicat/letstalk.html">Let's Talk 
+  Business</A> - Attracting Retail and Service Businesses to your community<BR>
+
+  <LI><A href="http://www.annualreportservice.com/">Online Annual Report Service</A> 
+  <LI><A href="http://www.quicken.com/small_business/">Quicken Small Business</A> 
+  <LI><A href="http://www.thomasregister.com/">ThomasRegister of American Manufacturers </A> - ID:Brownell; 
+  Password:Brownell 
+  <LI><A href="http://www.thomasregional.com/">ThomasRegional</A> 
+  </UL>
+  
+  
+  
+<p>&nbsp;</p>
+  
+  
+  
+<P><A name=Catalogs></A><b>Catalogs at Other Area Libraries</b> </P>
+<UL>
+  <LI><A href="http://destiny.ccsuvt.org/">Chittenden Central Supervisory Union 13 
+	Library Catalogs 
+  </A> 
+  <LI><A 
+  href="http://www.smcvt.edu/library/">Saint 
+  Michael's Library Catalog</A> 
+  <LI><A href="http://voyager.uvm.edu/">University of Vermont Library Catalog - 
+  Voyager</A> 
+  <LI><A href="http://vtslweb2.sirsi.net/html/welcome.html">Vermont Department of Libraries 
+  Catalog</A> - connects to other Public Libraries and State colleges 
+  catalogs</UL>
+
+<P><A name=colleges></A><b>College 
+Information </b></P>
+<UL>
+  <LI><A href="http://www.collegeboard.org/">College Board Online Home Page</A> 
+  <LI><A href="http://studentaid.ed.gov/PORTALSWebApp/students/english/index.jsp">Department of 
+  Education</A> - Federal student aid 
+  <LI><A href="http://www.utexas.edu/world/univ/state/">Directory of 
+  Colleges</A> 
+  <LI><A href="http://www.fastweb.com/">Fast Web</A> 
+  <LI><A href="http://www.finaid.org/">FinAid </A> - The Financial Aid Information 
+  Page 
+  <LI><A href="http://www.fafsa.ed.gov/">Free Application for Federal Student 
+  Aid -FAFSA</A> 
+  <LI><A href="https://www.petersons.com/">Peterson's Education Center</A> 
+  <LI><A href="http://www.vsac.org/">Vermont Student Assistance Corporation VSAC  - A free online planning and preparation 
+	tools </UL></A> 
+ 
+  
+  
+<P><A name=Consumer_Info></A>
+<b>Consumer Information </b></P>
+<UL>
+  <LI><A href="http://www.bbb.org/">Better Business Bureau</A> 
+  <LI><A href="http://www.safekids.com/child-safety-on-the-information-highway/">ChildSafety on the Information 
+  Highway</A> 
+  <LI><A href="http://www.consumerworld.org/pages/resource.htm">Consumer World 
+  Resources</A> 
+  <LI><A href="http://www.consumereports.com/">Consumer Reports</A> 
+  <LI><A href="http://www.edmunds.com/">Edmunds Automobile Buyers Guide</A> 
+  <LI><A href="http://www.kbb.com/">Kelley Blue Book </A> - New Car Prices and Blue 
+  Book Values 
+   <LI><A href="http://www.mortgageloan.com/calculator/"> MortgageLoan calculators </A> - Various home loan calculators provided by MortgageLoan.com. 
+  <LI><A href="http://www.nadaguides.com/">NADA </A> - includes many kinds of 
+  Vehicles
+  <LI><A href="http://www.consumer.gov/">U.S. Consumer Guides and Protection</A></LI></UL>
+
+<P><A name=Genealogy></A><b>Genealogy</b> </P>
+<UL>
+  <LI><A href="http://www.ancestry.com/worldtree/tree.htm">AncestryHometown- 
+  World Tree</A> 
+  <LI><A href="http://www.cyndislist.com/">Cyndi's List </A> - A list of Genealogical Sites on 
+  the Internet 
+  <LI><A href="http://www.familysearch.org/">Family Search </A> - a geanological resource provided by the Mormons. 
+  <LI><A href="http://www.familytreemaker.com/">Family Tree Maker</A> 
+  <LI><A href="http://www.heritagequest.com/">HeritageQuest</A> 
+  <LI><A 
+  href="http://www.archives.gov/research_room/genealogy/index.html">National 
+  Archives and Records Administration Genealogy</A> <BR>
+
+  <LI><A href="http://www.rootsweb.com/">RootsWeb</A>
+	<LI><A href="http://search.ancestry.com/search/db.aspx?dbid=3693">Social Security Death Record 
+  Index</A> <BR>
+	<LI><A href="http://www.usgenweb.com/">USGenWebProject</A>
+	<LI><A href="http://www.vitalrec.com/">Vital Records Information U.S.</A> 
+	<LI><A href="http://www.vtgenlib.org/">Vermont Genealogy Library</A> 
+	<LI><A href="http://chroniclingamerica.loc.gov/">Chronicling America</A> - A digital newspaper collection of the Library of Congress
+	<LI><A href="http://fultonhistory.com/">Fulton History</A> - Fulton NY postcards and a selection of newspapers from NY
+
+</UL>
+
+<P><A name=Government_info></A><b>Government 
+Information</b>
+ </P>
+
+<UL>
+  <LI><A href="http://factfinder.census.gov/">American Factfinder - U.S. Census 
+  Bureau</A> 
+  <LI><A href="http://www.fecinfo.com/">FEC(Federal Election Commission) Info 
+  </A>- campaign finance information interpreted by a private company!<BR>
+  <LI><A href="https://www.cia.gov/library/publications/the-world-factbook/">The CIA 
+  World Factbook</A> 
+  <LI><A href="http://www.bls.gov/cpi/">ConsumerPrice Index</A> 
+  <LI><A href="http://www.embassy.org/">ForeignEmbassies in Washington DC</A> 
+  <LI><A href="http://www.gpo.gov/fdsys/">Federal Digital System </A>&nbsp;&nbsp; 
+  U.S. Gov. Printing Office - full text of official 
+  legislative and regulatory info. 
+  <LI><A href="http://mapserver.lib.virginia.edu/">Historical U.S. Census 
+  data browser</A> - 1790 to 1970 
+  <LI><A href="http://www.irs.gov/formspubs/index.html">IRS Tax 
+  Forms</A> 
+  <LI><A href="http://www.info.gov/">Government Information Xchange --Top Page 
+  (graphics)</A> 
+  <LI><A href="http://www3.epa.gov/enviro/">EPA -&nbsp; Envirofact 
+  Data Warehouse</A> <BR>
+
+  <LI><A href="http://www.vote-smart.org/">Project Vote Smart</A> 
+  <LI><A href="http://www.uspto.gov/web/menu/search.html">Patent and Trademark 
+  Office</A> 
+  <LI><A href="http://thomas.loc.gov/">THOMAS: Legislative Information on the 
+  Internet</A> 
+  <LI><A href="http://embpage.org/">US Embassies around the world</A> 
+  <LI><A href="http://www.loc.gov/law/guide/usjudic.html">U.S.Judicial Branch 
+  Resources (Supreme Court)</A> </UL>
+  
+  
+
+<P><A name=Job></A><b>Job Hunting and Preparation on 
+the Web </b></P>
+<UL>
+
+  <LI><A href="http://www.acinet.org/acinet/">America's Career Infonet </A>- 
+  includes labor statistics trends, salary info by job and geography, required 
+  skills, state demographics and career tools - connected to the federal 
+  Department of Labor.<BR>
+  <LI><A href="http://www.ajb.dni.us/">America's Job Bank</A> 
+  <LI><A href="http://www.careerbuilder.com/">CareerBuilder</A> 
+   <LI><A href="http://www.careers.org/">Careers</A> 
+  <LI><A href="http://www.monster.com/">Monster</A> 
+
+  <LI><A href="http://jobstar.org/">Jobstar</A> - both a career guide and a job 
+  bank includes how to build your resume and research companies.
+
+  <LI><a href="http://www.jobtrak.com/">Monster College</a>- Job network for college students and recent graduates
+    <LI><A href="http://www.bls.gov/oco/">Occupational Outlook Handbook</A> 
+  <LI><A href="http://www.princetonreview.com/cte/quiz/default.asp">Princeton 
+  Review Career Quiz</A> - analyze your skills and interests and attempt to 
+  steer you toward a career.
+  <LI><A href="http://www.salaryexpert.com/">Salary Expert</A> &nbsp;- database 
+  for salary and benefits statistic for over 30,000 jobs across the U.S. 
+  <LI><A href="http://www.wetfeet.com/">Wetfeet</A> - online recruitment for 
+  employers, also organized starting point for those considering new or first 
+  careers.
+
+  <LI><A href="http://www.jobhuntersbible.com/">What Color is Your Parachute 
+  &nbsp;- </A>Jobhunter's bible online supplement to the book. </LI>
+  
+  <LI>
+  Library jobs
+  <UL>
+    <LI><A href="http://nelib.org/advance-your-career/job-opportunities/">Jobs in New England</A> 
+
+    <LI><A href="http://www.vermontlibraries.org/category/jobs/">Vermont Library Association 
+    Jobline</A> </UL></ul>
+	
+<P><A name=Law></A><b>Law Information</b></P>
+<UL>
+  <LI><A href="http://www.lawsource.com/also/">American Law Sources on line</A> 
+  <LI><A href="http://www.law.cornell.edu/topical.html">Cornell Univ. Legal Info Institute</A>
+	<LI><A href="http://www.duhaime.org/diction.htm">Duhaime's Law Dictionary</A>
+	<LI><A href="http://www.visalaw.com/" >Immigration law at Siskind, Susser, Haas &amp; 
+  Chang&nbsp;</A>
+	<LI><A href="http://www.pauljdonovan.us/law/law.html">Paul 
+  Donovan's Legal Reference Resources for Public Librarians</A>
+	<LI><A href="http://www4.law.cornell.edu/uscode">United States Code</A>
+	<LI><A href="http://legislature.vermont.gov/statutes/">Vermont State 
+  Statutes on line</A>
+	<LI>Legal Directories
+    <UL>
+		<LI><A href="http://www.martindale.com/locator/home.html">Martindale-HubbellLawyer Locator</A>
+		<LI><A href="http://www.wld.com/">Welcometo West's Legal Directory</A>
+		</LI>
+	</UL>
+	<li>Legal sites for non-lawyers
+    <UL>
+		
+		<LI><A href="http://www.findlaw.com/">FindLaw:Internet Legal Resources</A>
+		<LI><A href="http://www.nolopress.com/">NoloHome Page</A>
+	</UL>
+</UL>
+ 
+ 
+<p><A name=Library></A><b>Library Resources - 
+  Books </b></p>
+  <UL>
+
+	<LI><A href="http://www.abe.com/">AbeBooks </A> - For locating new & used books, textbooks, 
+	and out of print materials.
+	<LI><A href="http://www.addall.com/">Addall</A> - A search engine for locating books and comparing prices.
+       <LI><A href="http://www.alibris.com/home.cfm">Alibris&nbsp;</A> 
+    <LI><A href="http://www.amazon.com/">Amazon</A> 
+    <LI><A href="http://arccat.uvm.edu/">ArcCat</A> - A cooperative catalog 
+    describing archival and manuscript collections held by various Vermont 
+    institutions listing unpublished materials, e.g.records of governmental 
+    agencies, individuals, organizations and businesses.
+    <LI><A href="http://www.barnesandnoble.com/">Barnes and Noble</A>
+    <LI><A href="http://www.bookfinder.com/">Bookfinder</A> - A search engine for locating books and comparing prices.
+    <LI><A href="http://www.bookwire.com/">Bookwire</A> 
+    <LI><A href="http://guides.middlebury.edu/citation">Citing 
+    Resources</A> 
+    <LI><a href="http://www.higginsonbooks.com/">Higginson Book Company</a> -
+	offering the Genealogical 
+	Community More than
+
+	15,000 quality book and map reprints since 1965
+    <LI><A href="http://www.ssdesign.com/librarypr/toolbox.html">Library Media and PR
+    </A>
+	<LI><a href="http://www.librophile.com/#!/audiobooks/popular/free">Librophile</a> - free downloadable audiobooks</UL>
+
+<P><A name=Medical></A><b>Medical 
+Help</b> </P>
+
+<UL>
+
+  <LI><A href="http://www.docboard.org/" last_modified="0" last_visit="0" 
+  add_date="873476739">AIM DocFinder</A> 
+    <LI><A href="http://www.fda.gov/oc/buyonline/">Buying Medicines and Medical 
+  Products on line</A> - this FDA sites gives some advice<BR>
+  <LI><A href="http://www.cdc.gov/">Centers for Disease Control and Prevention 
+  Home Page</A> &nbsp;- Updates on vaccinations, flu and other diseases.&nbsp; 
+  <LI><A href="http://www.cc-info.net/">Chronic Condition Information 
+  Network</A> 
+  <LI><A href="http://www.familydoctor.org/">Family Doctor</A> <BR>
+
+  <LI><A href="http://www.fda.gov/">Food and Drug Administration Home Page</A> 
+   <LI><A href="http://www.healthfinder.gov/">HealthFinder</A> - basic health 
+  info for consumers with links to full-text publication, support groups and 
+  other agencies. 
+  <LI><A href="http://www.mayohealth.org/">Mayo Clinic Health Oasis</A> - 
+  easy-to-read format with lots of visuals on a huge variety of topics.
+  <LI><A href="http://www.mlanet.org/p/cm/ld/fid=397" last_modified="0" last_visit="0" 
+  add_date="873476739">Medical Library Association Top Health Websites </A> 
+ 
+  <LI><A href="http://www.medicinenet.com/">MedicineNet</A>
+	<LI><A href="http://www.nlm.nih.gov/medlineplus/">MEDLINE plus</A> &nbsp;- 
+  Excellent source of info on diseases and drugs -also includes a good Medical 
+  Desk Dictionary. 
+  <LI><A href="http://www.merck.com/pubs/mmanual_home/contents.htm">The Merck 
+  Manual of Medical Information--Home Edition</A> <BR>
+	<LI><A href="http://nccam.nih.gov/">National Center for Complementary and 
+  Alternative Medicine (NCAM)</A>
+	<LI><A href="http://www.ama-assn.org/">OfficialAmerican Medical Association (AMA) Home Page</A> 
+	<LI><A href="http://cancer.med.upenn.edu/">OncoLink,The University of Pennsylvania Cancer Center 
+  Resource</A> <BR>
+  <LI><A href="http://www.uvm.edu/medicine/?Page=community_medical_school_archives.html">University of Vermont Community Medical School Archives</A>
+	<LI><A href="http://www.vh.org/">Virtual Hospital</A>
+	<LI><A href="http://healthvermont.gov/">Vermont 
+  Department of Health</A>
+		<a href="http://healthvermont.gov/prevent/flu/flu_clinics.aspx">Vermont Flu 
+	Clinic Listings</a><LI>
+	<a href="http://healthconnect.vermont.gov/">Vermont Health Connect</a><BR>
+	<LI><A href="http://www.yoursurgery.com/">Your Surgery</A> &nbsp; - 
+  &nbsp;note: do not use "search procedures", but use "search" on the upper 
+  right.
+	<li>Individual Diseases
+
+ 	<ul>
+		<li><A href="http://www.alz.org/">Alzheimer's</A>
+		<li><A href="http://www.cancer.org/">American Cancer Society</A>
+		<li><A href="http://www.cancermonthly.com/">Cancer Monthly</A> - This resource was created by parents who
+ lost children to cancer, and contains the clinical results of hundreds of different cancer treatments used
+ in over 20 countries.  It also includes the newsletter 
+		<A href="http://www.cancermonthly.com/cancerwire.asp">Cancerwire.</A>
+		<li><A href="http://healthsearchplus.com/">Health Search Plus </A>- Health Search Plus is Cancer Monthly's web search tool.
+ 		<li><A href="http://www.diabetes.org/">Diabetes</A>
+		<li><A href="http://www.americanheart.org/">Heart</A>
+		<li><A href="http://www.cpdr.org/">Prostate</A>
+	</ul></ul>
+ 
+ 
+ 
+<p><A name=Media></A><b>Media</b></p>
+<UL>
+
+  <LI><A href="http://us.imdb.com/">Internet Movie 
+  Database</A> 
+  <LI><A href="http://www.mrqe.com/">Movie Review Query Engine</A> 
+  <LI><A href="http://www.oscars.org/awards/academyawards/index.html">Oscars Awards</A>
+	<LI><A href="http://www.peabodyawards.com/">Peabody Awards</A> for 
+  broadcasting media 
+  <LI><A href="http://www.pbs.org/">PBS Online</A> <BR>
+	<LI><A href="http://www.vpr.net/">Vermont Public Radio</A>
+	<LI><A href="http://www.vpt.org/">Vermont Public Television</A> </LI>
+</UL>
+  
+  
+<p><A name=News></A><b>Newspapers</b></p>
+<UL>
+  <LI><A href="http://www.boston.com/globe/">Boston Globe</A> 
+  <LI><A href="http://www.csmonitor.com/">The Christian Science Monitor</A> 
+  <LI><A href="http://www.nytimes.com/">TheNew York Times on the Web</A> 
+  <LI><A href="http://www.n-net.com/">N-NET - thousands of &nbsp;United States 
+  newspapers are list here</A> &nbsp; </LI></UL>
+
+<p><A name=Retirement></A><b>Retirement</b></p>
+<UL>
+  <li><A href="http://www.aarp.org/">AARP Homepage</A> 
+  <li><a href="http://www.aoa.gov/">Administration on Aging</a> 
+  <li><A href="http://www.seniornet.org/"> Senior Net - information of 
+  interest to the over 50 age group</A> </LI></UL>
+  
+<p><A name=Schools></A><b>Schools - Local (CCSU)</b></p>
+<ul>
+	<li><A href="http://www.ccsuvt.org/">Chittenden Central Supervisory Union</A>
+	<li><A href="http://www.ccsuvt.org/ehs/">Essex High School</A>
+	<li><A href="http://www.ccsuvt.org/adl/">Albert D Lawton Intermediate School</A>
+	<li><A href="http://www.ccsuvt.org/fleming/">Thomas Fleming School</A>
+	<li><A href="http://www.ccsuvt.org/summit/">Summit Street School</A>
+	<li><A href="http://www.ccsuvt.org/hiawatha/">Hiawatha Elementary School</A><br>
+	<li><A href="http://go-cte.org/welcome.php">The Center for Technology, Essex</A><br>
+	<li><A href="http://www.ccsuvt.org/westford/">Westford School</A><br>
+	
+	
+	<b>--School Boards/Board Meeting Minutes--</b><br>
+	<li><A href="http://www.ccsuvt.org/school-boards/prudential-committee/">Essex Junction School District Prudential Committee</A><br>
+	<li><A href="https://www.ccsuvt.org/category/newsletter/union-46-school-board">Union #46 School Board</A><br>
+	<li><A href="http://www.ccsuvt.org/school-boards/ccsu-board/">Chittenden Central Supervisory Union School Board</A><br>
+	<li><A href="http://www.ccsuvt.org/school-boards/westford-school-board/">Westford School Board</A><br>
+</ul>
+  
+<p><A name=Sports></A><b>Sports</b></p>
+<ul>
+  <LI><A href="http://www.sportsline.com/">CBSSportsLine</A> 
+  <LI><A href="http://espn.go.com/">ESPNETSportsZone</A> 
+  <LI><A href="http://www.sirc.ca/online_resources/index.cfm">SIRC Sport Resource Center</A>
+  <LI><A href="http://www.sportingnews.com/">SportingNews</A> 
+ </LI></ul>
+  
+  
+<P><A name=Telephone></A><b>Telephone &amp;  Zip 
+Directories</b> </P>
+
+<UL>
+  <LI><A href="http://www.allpages.com/">Allpages </A>- Internet U.S. Yellow 
+  Pages<BR>
+  <LI><A href="http://www.anywho.com/whitepages">Anywho</A> &nbsp; - Can search 
+  whole U.S. or limit;&nbsp;&nbsp; ATT Tollfree also available here 
+  <LI><A href="http://www.infospace.com/">Infospace </A>- Links to city guides, 
+  gov., classifieds, public records,&nbsp; reverse address feature, world wide 
+  e-mail...
+  <LI><a href="http://yellowpages.superpages.com/">Superpages</a>&nbsp; 
+  <LI><A href="http://www.switchboard.com/">Switchboard</A> &nbsp; -&nbsp; Has 
+  direct links to community info, restaurants, gov., entertainment ... &nbsp; 
+  <LI><A href="http://www.usps.com/zip4/">Zip code directory USPS</A> 
+</UL>
+
+<p><A name=Travel></A><b>Travel</b></p>
+
+<ul>
+  <li> <A href="http://www.bbonline.com/">Bed &amp; Breakfast Inns 
+  on-line</A> 
+  <li> <A href="http://www.virtualcities.com/">First Traveler's Choice</A> 
+
+  <li> <A href="http://www.roadscholar.org/">Road Scholar</A> 
+  <li> <A href="http://www.roadscholar.org/">Expedia</A> 
+  <li> <A href="http://www.fodors.com/">Fodor's</A> 
+  <li> <A href="http://www.travelguides.com/">Lanier's Travel Guides</A> 
+  <li><A href="https://www.bing.com/maps/"> Bing Maps</A> <BR>
+
+  <li><A href="http://www.mapquest.com/"> Map Quest</A> 
+  <li> <A href="http://www.olcg.com/">Online City Guide</A> 
+  <li> <A href="http://www.nps.gov/parks.html">ParkNet - National 
+  Parks</A> 
+  <li> <A href="http://www.newenglandinnsandresorts.com/">New England Inn and Resort 
+  Association</A> 
+  <li> <A href="http://www.travel-new-england.com/">Travel New England</A> 
+  <li> <A href="http://www.travelocity.com/">Travelocity</A> 
+  <li> <A href="https://www.priceline.com/home/?lrdr=secure">Pricelie</A> 
+  <li> <A href="http://travel.state.gov/content/passports/en/alertswarnings.html">U.S. State 
+  Department Travel Warnings and Consular Information Sheets</A> 
+  <li> <A href="http://travel.yahoo.com/">Yahoo! Travel</A> 
+
+</LI></ul>
+
+
+
+<!--  STOP EDITING HERE-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br>If you&#39;d like to suggest a resource to include on this page, please fill 
+out this <a href="http://tinyurl.com/SuggestedWebsiteforBrownell">form</a>.<br>
+
+
+
+
+
+
+
+</tr>
+
+</table>
+<br><br>
+
+<div align="center" class="footer">Brownell Library, 6 Lincoln Street, Essex Junction, Vermont 05452 <br>
+   Main Desk (802) 878-6955&nbsp;&nbsp;Youth Desk (802) 878-6956 &nbsp;&nbsp;Reference Desk (802) 878-6957</div>
+
+
+
+
+
+
+</body>
+
+</html>
+
 
